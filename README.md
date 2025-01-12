@@ -48,4 +48,4 @@ Why This Project is Impressive
 This project showcases my ability to handle real-world challenges, such as imbalanced data, and my expertise in leveraging advanced techniques like SMOTE, deep learning, and ensemble models. The use of ANN and Extra Tree Classifiers highlights my capability to experiment with diverse algorithms, compare their performance, and select the best fit for the problem. Additionally, the project emphasizes critical skills such as data preprocessing, EDA, and an understanding of evaluation metrics, demonstrating my readiness to tackle data-driven challenges in professional settings.
 
 
-Check 
+Check out the project!
